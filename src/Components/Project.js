@@ -21,7 +21,7 @@ function Project() {
         <main className="bg-blue-100 min-h-screen p-12">
             <section className="container mx-auto">
                 <h1 className="text-3xl flex justify-center">My Projects</h1>
-                <h2 className="text-lg text-gray-600 flex justify-center mb-12">Welcom to my Projects Page.</h2>
+                <h2 className="text-lg text-gray-600 flex justify-center mb-12">Welcome to my Projects Page.</h2>
                 <section className="grid grid-cols-2 gap-8">
                     {
                         projectData && projectData.map((project,index) =>(
