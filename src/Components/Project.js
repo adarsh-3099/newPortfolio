@@ -11,7 +11,8 @@ function Project() {
             date,
             description,
             projectType,
-            link
+            link,
+            link2
         }`)
         .then((data) => setProjectData(data))
         .catch((err) => console.log(err))
@@ -41,6 +42,9 @@ function Project() {
                                 <p className="my-6 text-lg text-gray-700 leading-relaxed">{project.description}</p>
                                 <a href={project.link} target="_blank" className="text-blue-500 hover:underline  hover:text-blue-300">
                                     View The Project{" "}
+                                </a>
+                                <a href={project.link2} target="_blank" className="text-blue-500 hover:underline  hover:text-blue-300">
+                                    View Github Source Code{" "}
                                 </a>
                         </div>
                     </article>
