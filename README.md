@@ -1,6 +1,6 @@
 # Portfolio
 
-Made my own portfolio with the help of React Js and Sanity IO
+Made my own portfolio with the help of React Js and Sanity IO.
 
 ## Installation
 
@@ -24,7 +24,7 @@ sanity start
 
 ## Requirements
 
-You also need to run the backend and frontend locally.
+You need to run the backend and frontend locally.
 
 ## Pictures
 
