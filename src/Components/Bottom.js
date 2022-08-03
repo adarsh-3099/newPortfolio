@@ -7,7 +7,7 @@ function NavBar() {
         <footer className="bg-blue-600">
             <div className=" flex justify-center">
                 <button className="text-gray-800 content-center text-lg mx-100 text-center mt-8 font-blog px-3 py-3 bg-blue-100 text-blue-100 rounded">
-                                <a href="https://drive.google.com/file/d/1KzkmIKM9KSgtRHF19C5xXGI107cESQai/view?usp=sharing" target="_blank" className="text-blue-500 hover: text-blue-300">Resume</a>
+                                <a href="https://drive.google.com/file/d/1helpLoJqjEaL4SRI6gSUbnSMPUaQY01R/view?usp=sharing" target="_blank" className="text-blue-500 hover: text-blue-300">Resume</a>
                             </button>
                 </div>
             <div className="container mx-auto flex justify-center">
